@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**logangaming1/logangaming1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**logangaming1/logangaming1** is a ✨ _special_ ✨ repository because this `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
